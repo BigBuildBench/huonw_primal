@@ -1,0 +1,11 @@
+[package]
+name = "generators"
+version = "0.3.0"
+authors = ["Huon Wilson <dbau.pp@gmail.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+
+[package.metadata.release]
+release = false
